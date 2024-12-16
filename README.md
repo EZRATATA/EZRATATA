@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EZRATATA
 - 👀 I’m interested in Video game developpement
-- 🌱 I’m currently learning modding Minecraft
+- 🌱 I’m currently to code to enter 42
 - 📫 How to reach me -> Discord : ezra_az
 - ⚡ Fun fact: I'm super lazy :)
